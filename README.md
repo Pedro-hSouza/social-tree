@@ -1,2 +1,2 @@
 # social-tree
-A social profile
+You can custom the social tree with your links, you image, you name!
