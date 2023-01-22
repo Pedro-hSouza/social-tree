@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/*font-family: 'Poppins', sans-serif;*/
+
+body {
+    background-color: #E5E5E5;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.cabecalho-img {
+    height: 150px;
+    border: 2px solid #BB99DD;
+    border-radius: 50%;
+    padding: 4px;
+}
+
+.cabecalho-nome {
+    font-weight: 300;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #BB99DD;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+.conteudo-link {
+    font-family: 'Poppins', sans-serif;
+    color: #BB99DD;
+    width: 270px;
+    height: 40px;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rodape-img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 30px;
+}
